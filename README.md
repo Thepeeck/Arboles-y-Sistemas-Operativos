@@ -9,4 +9,4 @@
 
 ### en la simulacion de los ecenarios irira asi
 
--Escenario A-|-Escenario B-
+-Escenario A|-Escenario B
