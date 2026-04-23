@@ -9,6 +9,6 @@
 
 ### en la simulacion de los ecenarios irira asi:
 
-###Escenario A :la llegada de procesos de orden aleatorio
-###Escenario B: Llegada secuencial , dodne los porcesos entran ordenados del 1 al 1000
-###Escenario C: Simulacion de procesos que entran y salen constantemente 
+#### Escenario A :la llegada de procesos de orden aleatorio
+#### Escenario B: Llegada secuencial , dodne los porcesos entran ordenados del 1 al 1000
+#### Escenario C: Simulacion de procesos que entran y salen constantemente 
